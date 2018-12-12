@@ -1,0 +1,8 @@
+.root
+{
+    -fx-background-color: rgb(25,150,150);
+}
+.label
+{
+    -fx-font-size: 20;
+}
